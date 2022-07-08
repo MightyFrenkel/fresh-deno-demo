@@ -24,7 +24,9 @@ export default function Home() {
         </p>
         <h2>This demo contains the following features</h2>
         <ul>
-          <li>Prefetch pages by hovering over navbar links</li>
+          <li>
+            NO prefetching pages by hovering over navbar links (not supported)
+          </li>
           <li>Routing pages</li>
           <li>
             Routing endpoints{" "}
